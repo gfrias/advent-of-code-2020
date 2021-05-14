@@ -1,0 +1,8 @@
+e
+se
+sw
+w
+nw
+ne
+eswwnwneese
+
